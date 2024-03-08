@@ -60,8 +60,11 @@ print(f"Predicted Value:{pre}")
 
 ## Output:
 ![Machine Learning 1](https://github.com/RamkumarGunasekaran/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870820/7fcbc1d1-43dc-43ed-ae21-6868878c6ef8)
+
 ![2](https://github.com/RamkumarGunasekaran/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870820/5bd92552-d361-41cf-8b3a-4cba9f359aca)
+
 ![3](https://github.com/RamkumarGunasekaran/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870820/c4ed46dd-719e-4205-848f-f04bb6cdb1f4)
+
 ![4](https://github.com/RamkumarGunasekaran/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870820/10c87e67-b003-468a-b739-e7d0a08d0d93)
 ![5](https://github.com/RamkumarGunasekaran/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870820/aca29fc8-5bfd-424b-93a5-5c236a3b2b59)
 ![6](https://github.com/RamkumarGunasekaran/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870820/2df83165-0ea3-4446-be9b-a028c075f254)
